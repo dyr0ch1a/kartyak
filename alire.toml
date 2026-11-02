@@ -1,0 +1,9 @@
+name = "kartyak"
+description = ""
+version = "0.1.0-dev"
+
+authors = ["dyr0ch1a"]
+maintainers = ["dyr0ch1a <example@example.com>"]
+licenses = "BSD-3-Clause"
+website = ""
+tags = []
